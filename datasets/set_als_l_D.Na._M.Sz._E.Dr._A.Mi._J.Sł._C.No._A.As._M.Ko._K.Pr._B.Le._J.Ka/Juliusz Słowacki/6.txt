@@ -1,0 +1,96 @@
+persname duchów placename
+
+
+
+
+
+
+
+[doktor gut]
+
+nu placename cud,
+
+chemik,
+
+akademik,
+
+aptekarz,
+
+czego placename jechasz?
+
+
+
+towiański
+
+człek pański,
+
+orgname,
+
+placename przybyli.
+
+
+
+nu [szarlota]
+
+[] żywota
+
+nu 
+
+[szwagrze]
+
+osoba
+
+większa oba.
+
+
+
+nu [niewielka]
+
+dejbelka
+
+chodzi
+
+[uwodzi]
+
+[węża],
+
+persname spuści męża.
+
+
+
+persname
+
+nóg upadam,
+
+rok
+
+prorok
+
+kursie
+
+panem persname dyskursie.
+
+
+
+koło,
+
+wesoło,
+
+czeka
+
+daleka,
+
+persname
+
+uczyni krok.
+
+
+
+
+
+
+
+
+
+-----
+

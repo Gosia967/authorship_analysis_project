@@ -1,0 +1,68 @@
+persName, kowale,
+
+Okujcie nam koła.
+
+Jedzie tutaj od geogName wesoła!
+
+
+
+geogName, geogName,
+
+Ty stara ziemico!
+
+Obsiał ciebie sam Pan persName i pszenicą.
+
+
+
+Nie obrodzisz jednem,
+
+To obrodzisz drugiem,
+
+Nie będzie ci ten orgName chodził z pługiem!
+
+
+
+Nie obrodzi żyto,
+
+To obrodzi proso.
+
+Nie będzie ci ten geogName chodził boso.
+
+
+
+Nie obrodzi proso,
+
+To obrodzi hreczka.
+
+Nakupi se w placeName wstęgów
+
+geogName dzieweczka.
+
+
+
+geogName, Kujawak!
+
+Śliczna Kujawianka!
+
+placeName se tańcowali
+
+Do białego ranka!
+
+
+
+Stanęło słoneczko,
+
+Z nieba się dziwuje,
+
+Kiedy ci ten orgName tańcuje.
+
+
+
+
+
+
+
+
+
+-----
+

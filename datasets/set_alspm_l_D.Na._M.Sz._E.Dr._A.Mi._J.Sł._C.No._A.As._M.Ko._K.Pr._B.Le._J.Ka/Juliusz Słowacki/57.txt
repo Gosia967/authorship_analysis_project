@@ -1,0 +1,677 @@
+persname 83 288 2855 1 
+
+
+
+
+
+
+
+
+
+
+
+  ucieczka 
+
+
+
+     młody dziewica klasztorny mur 
+
+ persname cały poświęcić życie 
+
+ odrzucać świeży wianek róża 
+
+ łza piękny oko płynąć obficie 
+
+ całun legła marmur 
+
+ ustać drżące serce bić 
+
+ łza płynąć bladość straszliwy 
+
+ chwila śmierć lica pokrywać 
+
+
+
+     mrok zapadać wieczorny chłód 
+
+ wrócić niebo barwa lazurowy 
+
+ krzyżowy kryć naród 
+
+ geogname skwara utrudzoną głowa 
+
+ chować geogname woda 
+
+ skryć fala bursztynowy 
+
+ zajrzać gmach zasępić skrzydło 
+
+ szyba kościelny ciemny malowidło 
+
+
+
+     lud święty wychodzić podwoić 
+
+ skończony boski tajemnica ofiara 
+
+ czemuż rycerz nieruchomy stać 
+
+ marmurowy oprzeć filar 
+
+ twarz widać znać zbroa 
+
+ obrońca chrześcijański wiara 
+
+ noc późny czegoż czekać 
+
+ wyjść odejście zwlekać 
+
+
+
+     stać nieruchomy posąg głaz 
+
+ strzeże grób zimny marmur 
+
+ mignąć    błysk obraz 
+
+ pozłotą odbijać mur 
+
+ szmer słychać   odgłos wyraz 
+
+ cichej modlitwa przyniesiić chór 
+
+ rycerz zadrżeć strach 
+
+ ciemny pora posępny gmach 
+
+
+
+     księżyc wstąpić niebieski smuga 
+
+ patrzać cichy klasztor ustrona 
+
+ wychodzić rycerz rycerz drugi 
+
+ oba skoczyć pośpiech koń 
+
+ pewnie giermk pazi posługa 
+
+ czemuż pędzić spiesznie błonie 
+
+ czemuż prędko bity zejść droga 
+
+ brać las dziki odłogi 
+
+
+
+     początek żaden wieść rozmowa 
+
+ stary ostrogi zachęcać rumak 
+
+ potem nagle gniew gorzki słowo 
+
+ wyrwać pierś gorący persname 
+
+  radosny serce jam rzucić gotowy 
+
+ kraj przeklęty chcieć by być lot ptak 
+
+ miejsce ulecieć kędy mój głowa 
+
+ grozić tajemny wyrok sędzi 
+
+
+
+     lubić zakon turnieje gonitwa 
+
+ znoszeć szpieg tajny sprawa 
+
+ uciekać kraj dziki placename 
+
+ las słodsze ciągły obawa 
+
+ persname bratem toczyć krwawy bitwa 
+
+ przyzwać odległy dzierżawa 
+
+ zamek placename należeć 
+
+ geogname osadzić rycerz 
+
+
+
+     brać zakon przewodza 
+
+ śledzić placename spraszać biesiada 
+
+ ufny silny liczny załoga 
+
+ wróg liczny lękać zdrada 
+
+ sąd trzymać mych czynność wodze 
+
+ puścić musieć stracić ślad 
+
+ placename podstęp zdrada otoczyć 
+
+ placename dojrzyć bystry oko 
+
+
+
+     geogname zniknąć klasztór 
+
+ błyszczeć persname szeroki   
+
+ zaraz rzeka rzucić rumak skory 
+
+ parskać piana mieszać woda piana 
+
+ drugi brzeg czernić bor 
+
+ srebrny noc uwieńczić mgła 
+
+ geogname posępny płonąć zachód 
+
+ długi słup srebrzyć geogname woda 
+
+
+
+     grom spać człowiek wytny 
+
+ piękny bor cudny las sosnowy 
+
+ tysiączny kwiat głębia kwitną 
+
+ wiatr tajemniczy prowadzić rozmowa 
+
+ dzwonk barwa błyszczyć błękitny 
+
+ persname kobierka ściele wrzos różowy 
+
+ bor zarośniąć wrzos 
+
+ persname tętnić kopyto odgłos 
+
+
+
+     pośpiech szybko mijać rycerz 
+
+ rozległy książąt orgname dziedzina 
+
+ wschodzącym słońce witać wieża 
+
+ cień zamkiem zalegać dolina 
+
+ słońce jeźdźiec migać puklerz 
+
+ słońce nadbrzeżny kłaniać trzcina 
+
+ niejeden pączek słońce rozkwita 
+
+ błyszczeć ziemia kwiat okryć 
+
+
+
+     prędko szybki przemknąć rumak 
+
+ zniknąć obraz placename senny marzenie 
+
+ ciemny bor zarośla krzak 
+
+ jednostajny rumak tętnienąć 
+
+ geogname przebiegłszy lazurowy szlak 
+
+ geogname chować promień 
+
+ cień ziemia spuszczać ponury 
+
+ stary persname wskazać zamek mur 
+
+
+
+      patrzyć pyszny persname stolica 
+
+ dzierżawa kędy zajrzyć oko 
+
+ zamkiem wieża pogany kaplica 
+
+ gęsty kadzidło obłokie 
+
+ persname piorunu szczerozłote lica 
+
+ patrzeć jasny brylantowy wzrok 
+
+ widzieć wielki błękit przestworz 
+
+ placename zamek Geogname  
+
+
+
+ * 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ii 
+
+ rycerz sąd tajemny 
+
+
+
+     stokroć weselsze persname gmach 
+
+ posępny persname komnata 
+
+ srebrny rozjaśniać blacha 
+
+ kobierca złocą jasny szata 
+
+ sala zamkowy głuchy więzienie 
+
+ wiatr szumi wolno przewiew 
+
+ głębie wieczny zalegać cień 
+
+ setny ziemia wybiegłszy filar 
+
+ zrastać altana drzewo 
+
+ dzieląc setny konar 
+
+ wspierać różnie łamany sklepienie 
+
+ okno cięte gwiazda rozliczny wzór 
+
+ dzień dawać światło słaby świt 
+
+  okrągły lśnić tęcz kolor 
+
+ okno jutro strzelnica potrzeba 
+
+ sklepienie zasępiony szczyt 
+
+ błyszczeć dala miesiąc niebo 
+
+
+
+     noc głęboki późny chwila 
+
+ lampa ciemny gmach palić 
+
+ rycerz czuwać sala 
+
+  wczoraj placename przybyć 
+
+ stary szyszak pancerz stalowy 
+
+ płaszcz szeroki wizerunkiem krzyż 
+
+ raz światło zbliżać 
+
+ piersiach migać krzyż dyjamentowy 
+
+ miecz bok obosieczny dług 
+
+ znać   komtur zakon krzyżak 
+
+ młody persname drugi 
+
+ widocznych poznać móc być znak 
+
+ ostrog rycerz 
+
+ swój pierś kryć ciężki kolczugą 
+
+ ubiór pazi zwierz 
+
+ rozmawiać sługa 
+
+ słowo persname skryty tajemniczy 
+
+ pazi spoglądać oblicze 
+
+ oblicze piękny czarowny 
+
+ spojrzenie pazi czułe dobitny 
+
+ oko jasny niebo błękitny 
+
+ ćmią długi rzęsa nadto wymowny 
+
+ włos spływać złocisty pierścieni 
+
+ twarz smutek zamyślenie 
+
+
+
+     rycerz pora przybywać 
+
+ czarny ściśle zamknąć przyłbica 
+
+ czarny pancerz naramiennice 
+
+ olbrzymi postać żelazo okrywać 
+
+ schylić wchodzić wielki filar 
+
+ stanąć milczenie załamać dłoń 
+
+  coś przyjść   rzec persname ponuro 
+
+  persname brat rycerz chrześcijański wiara 
+
+ przynosić    twój śmierć hugonąć  
+
+ czoło komtur okryć chmura 
+
+ rzec siebie   wybadać musieć  
+
+  two mowa bracie śmierć zagrażać 
+
+ geogname widzieć persname grusza 
+
+ persname powracać cmentarz  
+
+ nazwisko rycerz spuścić dłoń 
+
+ milczeć dwakroć głowa skłonić 
+
+ pielęgnować troskliwie wazon 
+
+ okno zamkowy kwiat róża płonić 
+
+ zerwać persname rycerz badać 
+
+ rycerz milczeć milczeć wziąć kwiat róża 
+
+ pierś nieść usta przykładać 
+
+ czoło persname posępni chmurzyć 
+
+ persname licu rumieniec szkarłaty 
+
+ dowód nowy szukać 
+
+  powiedzieć rycerz czyliś bogaty 
+
+ brat rodzina  
+
+ a bogactwo złoto sztuka 
+
+ bogactwo trzy miara wino 
+
+ brat miecz wyryć 
+
+ jeden ręka wieniec róża uwity 
+
+ drugi sztylet krew wróg tonąć 
+
+ taki rycerz brać mój 
+
+ rodzina placename ziemia 
+
+ dosyć   znać   hugonie 
+
+
+
+     znać   dom   mój rodzina 
+
+ słuchać   krótki wyrok słowo 
+
+ zbrodnia spełnić kara gotowy 
+
+ znać wielkość zbrodnia umrzesz godzina 
+
+  pazi pożyczać ubiór 
+
+ ażeby kazić człowiek święty wiara 
+
+  przybyłaś wracać klasztor 
+
+ czekać wstyd hańba kara  
+
+
+
+     wyjść persname sen zbudzić 
+
+  słyszyć luba odgłos krok 
+
+ słyszyć poseł okropny wyrok 
+
+ śmierć przynieść gdy być szczęście łudzić 
+
+  łatwie łatwo persname wczor 
+
+ szczęśliwy trudno umierać 
+
+ patrzyć geogname zacząć szyba przezierać 
+
+ słyszyć szumać fala jezioro 
+
+ geogname żegna żegnać fala 
+
+ sen godzina  
+
+ próżno próżno marnie zgina 
+
+ mieliżby życie zarządzać zuchwale 
+
+ czekać   persname zostawiać sala 
+
+ płaszcz bój plątać by dłoń 
+
+ hełm pióro nadto kruchy stać 
+
+ miecz nadto lekki głowa 
+
+ wziąć luba krzyż brylantowy 
+
+ długo długo błyszczeć łon 
+
+ przypomnieć zgon 
+
+  żyć   chcieć żyć luba 
+
+ wszak jam placename zhodować dom 
+
+ nieraz sława szukać być dom 
+
+ miecz zdziwia placename ogrom 
+
+ zbroja stal twardy gruby 
+
+ żelazo przełom 
+
+ persname bój ustroi 
+
+ wydrą serce spod żelazny zbroa 
+
+
+
+     ocalenie droga 
+
+ świątynia pogański bog 
+
+ ukryć loch podziemny 
+
+ kręty przechoda kryjówk ciemny 
+
+ droga pewny ostrożny 
+
+ wszak zdrada zdrada uchronić   
+
+
+
+     rzec wyjść straszny zbroja wkładać 
+
+ nieraz występować szranki 
+
+ potem zbiec szybko zakryć ganka 
+
+ świątynia persname grom władać 
+
+ ogień orgname dymny ponury 
+
+ czarny filar łamać cień 
+
+ iść rycerz ciemny przeglądać mur 
+
+ muer tajemny schronienie 
+
+ zbiegów bezpiecznie świt zatrzymać 
+
+ przebóg zadrżeć kamienny bożyszczać 
+
+ stać wokoło święcony zgliszcz 
+
+ żywy patrzać oko 
+
+
+
+
+
+
+
+
+
+ III 
+
+ zgon 
+
+
+
+     nadejść straszny godzina wyrok 
+
+ wejść sala mściciel tajny zbrodnia 
+
+ wejść filar zatrzymać krok 
+
+ światło blado tlejący pochodny 
+
+ dłoń rycerz oprzeć spoczywać 
+
+ ofiara śmierć znany płaszcz komtura 
+
+ posępny krzyż bark spływać 
+
+ hełmie znać kołysić pióro 
+
+ znany krzyż piersiach migać 
+
+ znany miecz bok 
+
+ czyliżć męstwo prędko ostyga 
+
+ persname ów śmiały mężny godzina 
+
+ śmierć lękać widok 
+
+ persname kryć lica oba dłoń 
+
+ łza zasłaniać twarz płynąć 
+
+ cichość ponury   czyś gotowy hugonie 
+
+ biadać   milczeć   błysnąć zamach stać 
+
+ persname długo trup bawić 
+
+ sztylet piersiach rozdartych zostawić 
+
+ spojrzeć wolny wyjść krwawy sala 
+
+
+
+     przebóg drzwi otwarły zarazem 
+
+ wejść młody rycerz   persname młody 
+
+ hartowny odziać żelaz 
+
+ persname młodzieńczy płonąć jagoda 
+
+ wejść spojrzeć bystro   blanko blanko droga 
+
+ ubiór pióro zbroja 
+
+ milczyć   miłość persname 
+
+ odpowiedzieć słowo droga persname  
+
+ odpowiedzieć słowo persname twarz sin 
+
+ dłoń zimno szklisty blask oko 
+
+ sztylet piersiach bić godzina 
+
+    zamilknąć boleść głęboki 
+
+ żal ciężki serce ścisnąć 
+
+ pierś pracować wzburzony fala 
+
+ chwila oko płomień zemsta błysnąć 
+
+ zgasić nowy łza żale 
+
+
+
+      myśleć persname nieszczęśliwo 
+
+ swój zgon zgon zachować 
+
+  szczęście zerwać ogniwo 
+
+ żyć persname bądź zdrowy bądź zdrowy  
+
+
+
+     geogname rank srebrzyć zamek wieża 
+
+ powiedzieć daleki los persname 
+
+ placename sąd zniknąć rycerz 
+
+ straszny los przerażyć 
+
+ służba rozbiegła wieczor 
+
+ persname postać zakon 
+
+ gdzież podział powiedzieć tona 
+
+ mówić persname jezioro 
+
+ płakać   noc koniec 
+
+ słońce promienny ukazać głowa 
+
+ długo dzień łza brylantowy 
+
+ srebrny lilium lśnić słońce 
+
+
+
+ date 
+
+
+
+
+
+
+
+
+
+ - - - - 
+
+ 

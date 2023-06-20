@@ -1,0 +1,96 @@
+persname duchów placename
+
+
+
+
+
+
+
+[doktor ]
+
+placename cud,
+
+pan chemik,
+
+akademik,
+
+aptekarz,
+
+placename jechasz?
+
+
+
+
+
+człek pański,
+
+orgname,
+
+placename przybyli.
+
+
+
+[]
+
+[] żywota
+
+
+
+[szwagrze]
+
+osoba
+
+większa .
+
+
+
+[niewielka]
+
+pani dejbelka
+
+chodzi
+
+[uwodzi]
+
+[węża],
+
+pan persname spuści męża.
+
+
+
+persname
+
+nóg upadam,
+
+rok
+
+prorok
+
+kursie
+
+panem dyskursie.
+
+
+
+koło,
+
+,
+
+czeka
+
+daleka,
+
+pan persname
+
+uczyni krok.
+
+
+
+
+
+
+
+
+
+-----
+
